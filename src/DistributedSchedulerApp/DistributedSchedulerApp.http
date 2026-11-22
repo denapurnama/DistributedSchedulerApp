@@ -1,0 +1,6 @@
+@DistributedSchedulerApp_HostAddress = http://localhost:5033
+
+GET {{DistributedSchedulerApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
